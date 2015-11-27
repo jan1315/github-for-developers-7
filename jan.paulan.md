@@ -4,3 +4,4 @@
 •[] Where are you from
 •[] Favorite Food
 •[] Hobby
+•[] Color
